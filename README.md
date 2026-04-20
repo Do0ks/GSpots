@@ -75,6 +75,6 @@ Memory scanning is in beta.. It worked for every game i tried, and the one that 
 
  - Injectable Memory Scanner - https://github.com/Do0ks/B2D-Scanner
 
- - DLL Injector - https://github.com/Do0ks/Injector
+ - DLL Injector - https://github.com/Do0ks/InjectorV2
 
 </details>
