@@ -1,4 +1,4 @@
-# ![Droplets](https://github.com/user-attachments/assets/b78ae8fe-da35-414b-a720-cf7c7241ddd0) GSpots
+# ![Droplets](https://github.com/user-attachments/assets/b78ae8fe-da35-414b-a720-cf7c7241ddd0) GSpots - UPDATE COMING SOON!
 
 Simple way of getting GWorld, GNames, and GObjects of an Unreal Engine Game.
 
